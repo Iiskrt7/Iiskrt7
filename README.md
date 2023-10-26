@@ -22,7 +22,7 @@
     </a>
   </li>
 </ul>
-
-<p>Hello there! Welcome to my GitHub profile! I'm Omar, and I'm glad to see you here. Feel free to explore my projects and get to know my work. If you have any questions or suggestions, don't hesitate to reach out.</p>
+<p style="color: blue; font-family: 'cursive';">Omar is the young boy who is learning web programming. He enjoys developing websites and acquiring new skills in the programming world.</p>
 
 <p>Best regards,<br>Omar</p>
+
