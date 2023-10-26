@@ -26,3 +26,6 @@
 
 <p>Best regards,<br>Omar</p>
 
+<span style="color: #ff5733; font-family: 'cursive'; font-size: 24px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);">
+    Omar
+</span> is the young boy who is learning web programming. He enjoys developing websites and acquiring new skills in the programming world.
